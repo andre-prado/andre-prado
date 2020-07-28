@@ -4,7 +4,6 @@
 **andre-prado/andre-prado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Meu nome é André, tenho 28 anos e sou de São Paulo<br>
+🔭 Trabalho há quase um aninho como desenvolvedor utilizando Python.<br>
+:fire: Curso Sistemas de Informação na Faculdade Impacta e estou no quarto semestre :green_heart:<br>
+:snake: Python é a linguagem de programação que tenho mais familiaridade.<br>
+Gosto bastante de suas bibliotes, como Pandas, BeautifulSoup, e tecnologias como Flask.<br>
+:books: Tenho estudado bastante sobre React também, gosto muito da parte de front-end.<br>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr3prado)](https://www.linkedin.com/in/andr3prado/)
