@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 :fire:Alguns projetos envolvem criação de APIs, Web Crawler, Extração, Tratamento e Armazenamento de dados (ETL).<br>
 :books:Tenho também conhecimento com front-end utilizando React JS.:green_heart:<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr3prado)](https://www.linkedin.com/in/andr3prado/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr3prado)](https://www.linkedin.com/in/andreprado-dev/)
