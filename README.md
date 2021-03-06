@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Meu nome é André, tenho 28 anos e sou de São Paulo<br>
-:snake:1 ano de experiência desenvolvendo back-end com Python.<br>
-:fire:Alguns projetos envolvem criação de APIs, Web Crawler, Extração, Tratamento e Armazenamento de dados (ETL).<br>
-:books:Tenho também conhecimento com front-end utilizando React JS.:green_heart:<br>
+🔭 Meu nome é André, tenho 28 anos e sou de São Paulo.<br>
+:massage_man:Amo trabalhar com back-end, tenho tido experiências com Java :coffee: e Python :snake: e amo as duas linguagens.<br>
+:desktop_computer:Tenho 1 ano de experiência desenvolvendo sistemas na parte back-end.<br>
+:fire:Trabalhei em projetos envolvendo criação de Rest API, Web Crawler, ETL.<br>
+:books:Tenho também um pouco de conhecimento com front-end utilizando React JS.:green_heart:<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr3prado)](https://www.linkedin.com/in/andreprado-dev/)
+:clapper:projetos:<br>
+:musical_note:MusicFlix -> https://lnkd.in/dDrVYaE <br>
+:open_book:Meu Currículo -> https://lnkd.in/d4isCXQ
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr3prado)](https://www.linkedin.com/in/andreprado-dev/) 
