@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Meu nome é André, tenho 28 anos e sou de São Paulo.<br>
+🔭Meu nome é André, tenho 28 anos e sou de São Paulo.<br>
+:monocle_face:Curso Sistemas de Informação na Faculdade Impacta Tecnologia.<br>
 :massage_man:Amo trabalhar com back-end, tenho tido experiências com Java :coffee: e Python :snake: e amo as duas linguagens.<br>
 :desktop_computer:Tenho 1 ano de experiência desenvolvendo sistemas na parte back-end.<br>
 :fire:Trabalhei em projetos envolvendo criação de Rest API, Web Crawler, ETL.<br>
