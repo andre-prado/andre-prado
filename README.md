@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 :monocle_face:Me graduo em Sistemas de Informação no final de 2022 - Faculdade Impacta Tecnologia.<br>
 :massage_man:Amo trabalhar com back-end e AWS, tenho experiência com Java :coffee:, Python :snake: e .NET :globe_with_meridians:.<br>
 :desktop_computer:Atuo com desenvolvimento de sistemas desde 2019<br>
-:fire:Trabalhei em projetos envolvendo criação de Rest API, Web Crawler, ETL.<br>
-:books:Tenho também conhecimento com front-end utilizando React JS.:green_heart:<br>
-🔭Estou bem interessado na área de cloud e estou estudando para tirar certificações na AWS.
+:fire:Experiência em criação de Rest API, Web Crawler, ETL, Banco de Dados.<br>
+:books:Também tenho conhecimento com front-end utilizando React JS.:green_heart:<br>
+🔭Estou muito interessado em Cloud e estou estudando para tirar certificações da AWS.
 
 :clapper:projetos:<br>
 :musical_note:MusicFlix -> https://lnkd.in/dDrVYaE <br>
