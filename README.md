@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 🔭Meu nome é André, tenho 29 anos e sou de São Paulo.<br>
-:monocle_face:Curso Sistemas de Informação na Faculdade Impacta Tecnologia.<br>
-:massage_man:Amo trabalhar com back-end, tenho tido experiências com Java :coffee: e Python :snake: e amo as duas linguagens.<br>
+:monocle_face:Me graduo em Sistemas de Informação no final de 2022 - Faculdade Impacta Tecnologia.<br>
+:massage_man:Amo trabalhar com back-end e AWS, tenho experiência com Java :coffee:, Python :snake: e .NET :globe_with_meridians:.<br>
 :desktop_computer:Atuo com desenvolvimento de sistemas desde 2019<br>
 :fire:Trabalhei em projetos envolvendo criação de Rest API, Web Crawler, ETL.<br>
 :books:Tenho também conhecimento com front-end utilizando React JS.:green_heart:<br>
